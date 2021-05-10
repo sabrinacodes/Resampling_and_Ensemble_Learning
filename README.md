@@ -1,5 +1,4 @@
-# Resampling and Ensemple Learning
-## Analysis of loan stats. 
+## Analysis of Loan Stats using Resampling and Ensemble Learning
 ## 1. Which model had the best balanced accuracy score? 
 ### Easy Ensemble
 ## 2. Which model had the best recall score? 
